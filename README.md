@@ -1,5 +1,8 @@
 # THIS PROJECT IS DEPRECATED
 
+(this is a fork of the original project, with a few fixes integrated from walteram
+ and in-testing for cordova 10, android 9, ios 6)
+
 We are not using this repo anymore, and we lack the manpower and the experience needed to maintain it. We are aware of the inconveniece that this may cause you. Feel free to use it as is, or create your own fork. See https://github.com/nordnet/cordova-universal-links-plugin/issues/160 for more information.
   
 
